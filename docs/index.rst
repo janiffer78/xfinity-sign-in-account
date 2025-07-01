@@ -3,7 +3,7 @@ How to Sign In Your Xfinity Account Easily? 🔐📶
 
 Managing your **Xfinity sign in account** is essential for controlling your internet, TV, and mobile services. Whether you're checking bills, streaming shows, or updating your settings, knowing how to **sign in to Xfinity** quickly and securely helps make your digital life stress-free. 🖥️📲
 
-.. image:: start.png
+.. image:: sign-in.png
    :alt: My Project Logo
    :width: 400px
    :align: center
